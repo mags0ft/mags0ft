@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CD30D&center=true&vCenter=true&width=550&lines=%F0%9F%91%8B+Hi%2C+I'm+mags0ft!;Explicit+is+better+than+implicit.;Over-engineering%2C+one+project+at+a+time.;%F0%9F%98%8A+Read+more+below!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1CD30D&vCenter=true&width=550&lines=%F0%9F%91%8B+Hi%2C+I'm+mags0ft!;Explicit+is+better+than+implicit.;Over-engineering%2C+one+project+at+a+time.;%F0%9F%98%8A+Read+more+below!)
 ---
 
 Welcome to whoever is reading this, I am mags0ft and love to write software, especially web applications and some experimental stuff, whenever I'm able to _allocate_ some time for that.
