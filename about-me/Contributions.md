@@ -8,6 +8,7 @@ Here is a small list of my open source software pull requests:
 - 🦙 `jeffser/Alpaca`:
     - [add an option to hide the power save warning at startup](https://github.com/Jeffser/Alpaca/pull/282)
     - [made font family of code blocks monospace](https://github.com/Jeffser/Alpaca/pull/284)
+    - [add all missing German translation strings](https://github.com/Jeffser/Alpaca/pull/516)
 
 ---
 
