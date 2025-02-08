@@ -7,7 +7,10 @@ Here is a small list of my open source software pull requests:
     - [fix bug where trailing spaces would hide relevant results](https://github.com/breezy-weather/breezy-weather/pull/1210)
 - 🦙 `jeffser/Alpaca`:
     - [add an option to hide the power save warning at startup](https://github.com/Jeffser/Alpaca/pull/282)
+    - [fix bug causing code blocks to be rendered inconsistently](https://github.com/Jeffser/Alpaca/pull/530)
+    - [extend security policy to reflect where to disclose vulnerabilities](https://github.com/Jeffser/Alpaca/pull/527)
     - [made font family of code blocks monospace](https://github.com/Jeffser/Alpaca/pull/284)
+    - [add missing comma causing bug (+ further specify translator)](https://github.com/Jeffser/Alpaca/pull/529)
 
 ---
 
