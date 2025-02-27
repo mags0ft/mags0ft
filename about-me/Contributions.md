@@ -8,6 +8,7 @@ Here is a small list of my open source software pull requests:
 - 🦙 [`jeffser/Alpaca`](https://github.com/Jeffser/Alpaca):
     - [add an option to hide the power save warning at startup](https://github.com/Jeffser/Alpaca/pull/282)
     - [fix bug causing code blocks to be rendered inconsistently](https://github.com/Jeffser/Alpaca/pull/530)
+    - [minor refactoring and encapsulation of constants, add .gitignore](https://github.com/Jeffser/Alpaca/pull/570)
     - [extend security policy to reflect where to disclose vulnerabilities](https://github.com/Jeffser/Alpaca/pull/527)
     - [made font family of code blocks monospace](https://github.com/Jeffser/Alpaca/pull/284)
     - [add missing comma causing bug (+ further specify translator)](https://github.com/Jeffser/Alpaca/pull/529)
