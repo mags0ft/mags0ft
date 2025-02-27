@@ -4,6 +4,7 @@ I started programming when I was a kid and enjoyed it ever since. Over the cours
 some knowledge piled up. Here is what I'm coding in or with:
 
 > [!IMPORTANT]
+>
 > Languages, frameworks or libraries I know extremely well are marked with 💠, the ones I am
 > comfortable and experienced in are marked with 🟢, those I have some decent knowledge in
 > with 🟡 and lastly, those I already used but only have little experience in with 🟠.
@@ -19,6 +20,7 @@ some knowledge piled up. Here is what I'm coding in or with:
 | CSS        	| 🟢 good     	            | used in many projects, also some knowledge with *SCSS*.  	|
 | HTML       	| 🟢 good      	            | much experience, same goes for a.e. *JSX*.                |
 | C#           	| 🟠 limited 	            | used it in several Unity Projects                         |
+| C++           | 🟠 still new & learning   | only used it extensively for a personal chess engine      |
 
 ## Frameworks and libraries
 
@@ -26,13 +28,14 @@ some knowledge piled up. Here is what I'm coding in or with:
 |----------------------	|------------	     |-------------------------------------------------------	|
 | Flask              	| 💠 very good 	     | created many sites with it, some contracted and live.    |
 | Next.JS              	| 🟡 fair     	     | used in 3 projects already.                           	|
-| React Native          | 🟠 still new to it | developed and finished one custom app for a company in it|
+| React Native          | 🟡 fair            | developed and finished one custom app for a company in it|
 
 ## Databases
 
 | **Database system**   | Experience  | Notes                                                 	      |
 |----------------------	|------------ |-------------------------------------------------------------  |
 | MongoDB              	| 🟢 good  	  | worked with it several times, including aggregation pipelines |
+| SQLite                | 🟡 fair     | used 3-4 times in combination with Flask and React Native     |
 
 ## Server operating systems
 
@@ -41,3 +44,4 @@ _(regarding how comfortable I am deploying a web server on a specific OS)_
 | **Database system**   | Experience  | Notes                                                 	      |
 |----------------------	|------------ |-------------------------------------------------------------  |
 | Ubuntu 22.04+ LTS     | 🟢 good  	  | deployed 5 servers already, including NGINX, UFW etc.         |
+| Raspbian-like         | 🟡 fair  	  | used several times in homelab deployments                     |
