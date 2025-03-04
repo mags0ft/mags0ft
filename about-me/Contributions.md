@@ -16,6 +16,8 @@ Here is a small list of my open source software pull requests:
     - [update contribution link for Flathub appearance](https://github.com/Jeffser/Alpaca/pull/547)
     - [add all missing German translation strings](https://github.com/Jeffser/Alpaca/pull/516)
     - [minor README improvements](https://github.com/Jeffser/Alpaca/pull/546)
+ - 🔭 [`exo-explore/exo`](https://github.com/exo-explore/exo)
+    - [remove dead links in README](https://github.com/exo-explore/exo/pull/753)
 
 ---
 
