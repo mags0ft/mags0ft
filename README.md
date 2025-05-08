@@ -7,7 +7,7 @@ I like to code in Python along with Flask, work with Next.JS and generally love 
 Feel free to look around a little bit. These projects are worth a glance:
 - 💻 a fully custom designed [16-bit CPU](https://github.com/mags0ft/JoltCore-16)
 - 🐍 my Python library [spamfilter](https://github.com/mags0ft/spamfilter), available at PyPI
--  the kind of improvised backup manager [Lorean](https://github.com/mags0ft/Lorean)
+- 🚗 the kind of improvised backup manager [Lorean](https://github.com/mags0ft/Lorean)
 
 **My skills**: [Read on here](./about-me/Skills.md) &middot; **My FOSS contributions**: [Click here!](./about-me/Contributions.md)
 
