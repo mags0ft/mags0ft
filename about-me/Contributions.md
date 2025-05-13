@@ -16,7 +16,6 @@ Here is a small list of my open source software pull requests:
     - [add reasoning tag to models to allow for better filtering](https://github.com/Jeffser/Alpaca/pull/749)
     - [made font family of code blocks monospace](https://github.com/Jeffser/Alpaca/pull/284)
     - [add missing comma causing bug (+ further specify translator)](https://github.com/Jeffser/Alpaca/pull/529)
-    - [automatically select correct default model every time](https://github.com/Jeffser/Alpaca/pull/701)
     - [use human-like counting starting from 1 instead of 0 for imported document pages](https://github.com/Jeffser/Alpaca/pull/544)
     - [automatically select correct default model every time](https://github.com/Jeffser/Alpaca/pull/701)
     - [update contribution link for Flathub appearance](https://github.com/Jeffser/Alpaca/pull/547)
