@@ -16,6 +16,7 @@ some knowledge piled up. Here is what I'm coding in or with:
 |------------	|------------	            |-------------------------------------------------------	|
 | Python     	| 💠 very good              | worked with it for 6+ years, made many projects in it 	|
 | JavaScript 	| 🟢 good      	            | worked with it for 3+ years                           	|
+| TypeScript 	| 🟢 good      	            | enough knowledge due to many personal projects.         |
 | Java       	| 🟠 still new & learning	| coded sporadically in it since 2023                   	|
 | CSS        	| 🟢 good     	            | used in many projects, also some knowledge with *SCSS*.  	|
 | HTML       	| 🟢 good      	            | much experience, same goes for a.e. *JSX*.                |
@@ -43,5 +44,5 @@ _(regarding how comfortable I am deploying a web server on a specific OS)_
 
 | **Database system**   | Experience  | Notes                                                 	      |
 |----------------------	|------------ |-------------------------------------------------------------  |
-| Ubuntu 22.04+ LTS     | 🟢 good  	  | deployed 5 servers already, including NGINX, UFW etc.         |
+| Ubuntu 22.04+ LTS     | 🟢 good  	  | deployed 5 servers already, including NGINX, UFW, Docker etc. |
 | Raspbian-like         | 🟡 fair  	  | used several times in homelab deployments                     |
