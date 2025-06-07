@@ -15,3 +15,5 @@ Feel free to look around a little bit. These [projects](./about-me/Projects.md) 
 ---
 
 **More will be coming as time moves on!**
+
+<meta name="google-site-verification" content="wnJUdsSLCT-JUXOyunwiJw4w5p00Fj6UfncpYzt_fYk" />
