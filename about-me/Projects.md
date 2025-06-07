@@ -50,7 +50,7 @@ They're grouped into small categories for a better overview!
 
 ## Data & processing
 
-- [spamfilter](https://github.com/mags0ft/spamfilter) - Streamlined, object-oriented and fully customizable python spam filter library. Available on PyPI as `spamfilter`.
+- [spamfilter](https://github.com/mags0ft/spamfilter) - Streamlined, object-oriented and fully customizable python spam filter library. [Available on PyPI](https://pypi.org/project/spamfilter/) as `spamfilter`.
 <p align="center">
   <img src="../images/spamfilter.png" alt="Project badge for the spamfilter python library" width="200">
 </p>
