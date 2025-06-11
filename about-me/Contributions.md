@@ -25,8 +25,12 @@ Here is a small list of my open source software pull requests:
     - [add all missing German translation strings](https://github.com/Jeffser/Alpaca/pull/516)
     - [patch key error when using vision models (temporary hotfix)](https://github.com/Jeffser/Alpaca/pull/593)
     - [minor README improvements](https://github.com/Jeffser/Alpaca/pull/546)
- - 🔭 [`exo-explore/exo`](https://github.com/exo-explore/exo)
+- 🔭 [`exo-explore/exo`](https://github.com/exo-explore/exo):
     - [remove dead links in README](https://github.com/exo-explore/exo/pull/753)
+- 🫐 [`jeffser/Pigment`](https://github.com/Jeffser/Pigment):
+    - [minor README improvements](https://github.com/Jeffser/Pigment/pull/10)
+    - [catch bug that may appear when uploading a white image](https://github.com/Jeffser/Pigment/pull/9)
+    - [add option to omit doubled colors in palettes](https://github.com/Jeffser/Pigment/pull/8)
 
 ---
 
