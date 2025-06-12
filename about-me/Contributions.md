@@ -1,11 +1,11 @@
 # Open source software contributions
 
 I've already done a few minor contributions to projects that mean a lot to me.
-Here is a small list of my open source software pull requests:
+Here is a small list of my open source software pull requests which have been merged.
 
-- ⛅ [`breezy-weather/breezy-weather`](https://github.com/breezy-weather/breezy-weather):
+- ⛅ [`breezy-weather/breezy-weather`](https://github.com/breezy-weather/breezy-weather)
     - [fix bug where trailing spaces would hide relevant results](https://github.com/breezy-weather/breezy-weather/pull/1210)
-- 🦙 [`jeffser/Alpaca`](https://github.com/Jeffser/Alpaca):
+- 🦙 [`jeffser/Alpaca`](https://github.com/Jeffser/Alpaca)
     - [add an option to hide the power save warning at startup](https://github.com/Jeffser/Alpaca/pull/282)
     - [overhaul of sql_manager.py to improve long-term maintainability](https://github.com/Jeffser/Alpaca/pull/590)
     - [fix bug causing code blocks to be rendered inconsistently](https://github.com/Jeffser/Alpaca/pull/530)
@@ -25,9 +25,9 @@ Here is a small list of my open source software pull requests:
     - [add all missing German translation strings](https://github.com/Jeffser/Alpaca/pull/516)
     - [patch key error when using vision models (temporary hotfix)](https://github.com/Jeffser/Alpaca/pull/593)
     - [minor README improvements](https://github.com/Jeffser/Alpaca/pull/546)
-- 🔭 [`exo-explore/exo`](https://github.com/exo-explore/exo):
+- 🔭 [`exo-explore/exo`](https://github.com/exo-explore/exo)
     - [remove dead links in README](https://github.com/exo-explore/exo/pull/753)
-- 🫐 [`jeffser/Pigment`](https://github.com/Jeffser/Pigment):
+- 🫐 [`jeffser/Pigment`](https://github.com/Jeffser/Pigment)
     - [minor README improvements](https://github.com/Jeffser/Pigment/pull/10)
     - [catch bug that may appear when uploading a white image](https://github.com/Jeffser/Pigment/pull/9)
     - [add option to omit doubled colors in palettes](https://github.com/Jeffser/Pigment/pull/8)
