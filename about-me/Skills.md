@@ -42,7 +42,7 @@ some knowledge piled up. Here is what I'm coding in or with:
 
 _(regarding how comfortable I am deploying a web server on a specific OS)_
 
-| **Database system**   | Experience  | Notes                                                 	      |
-|----------------------	|------------ |-------------------------------------------------------------  |
-| Ubuntu 22.04+ LTS     | 🟢 good  	  | deployed 5 servers already, including NGINX, UFW, Docker etc. |
-| Raspbian-like         | 🟡 fair  	  | used several times in homelab deployments                     |
+| **Server OS**         | Experience  | Notes                                                 	       |
+|----------------------	|------------ |--------------------------------------------------------------- |
+| Ubuntu 22.04+ LTS     | 🟢 good  	  | deployed 6+ servers already, including NGINX, UFW, Docker etc. |
+| Raspbian-like         | 🟡 fair  	  | used several times in homelab deployments                      |
