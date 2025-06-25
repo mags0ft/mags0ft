@@ -10,7 +10,7 @@ Feel free to look around a little bit. These [projects](./about-me/Projects.md) 
 - 🚗 the kind of improvised backup manager [Lorean](https://github.com/mags0ft/Lorean)
 - ... 👉 [many more!](./about-me/Projects.md)
 
-**My skills**: [Read on here](./about-me/Skills.md) &middot; **My FOSS contributions**: [Click here!](./about-me/Contributions.md) &middot; **My projects**: [See them here](./about-me/Projects.md)
+[**My skills**](./about-me/Skills.md) &middot; [**My FOSS contributions**](./about-me/Contributions.md) &middot; [**My projects**](./about-me/Projects.md)
 
 ---
 
