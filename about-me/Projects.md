@@ -45,7 +45,7 @@ They're grouped into small categories for a better overview!
 ## Competitions
 
 - [BwInf-2025-Solutions](https://github.com/mags0ft/BwInf-2025-Solutions) - Participation in the "Bundeswettbewerb Informatik" (Federal Competition in Computer Science).
-- [Informatikbieber](https://bwinf.de/biber/) - Participation in the "Informatik-Biber" (Computer Science Beaver) competition.
+- [Informatikbiber](https://bwinf.de/biber/) - Participation in the "Informatik-Biber" (Computer Science Beaver) competition.
 - [INVENT a CHIP 2025](https://www.invent-a-chip.de/invent-a-chip) - Hardware design competition, open-source repository with solutions will be published after the competition ends.
 
 ## Data & processing
