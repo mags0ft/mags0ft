@@ -13,4 +13,4 @@ Feel free to look around a little bit. These [projects](./about-me/Projects.md) 
 - ✨ [Jace](https://github.com/mags0ft/Jace), a tool to mix several LLMs (AI models) together
 - ... 👉 [many more!](./about-me/Projects.md)
 
-[**My skills**](./about-me/Skills.md) &middot; [**My FOSS contributions**](./about-me/Contributions.md) &middot; [**My projects**](./about-me/Projects.md)
+Also see: [**My skills**](./about-me/Skills.md) &middot; [**My FOSS contributions**](./about-me/Contributions.md) &middot; [**My personal projects**](./about-me/Projects.md)
