@@ -4,9 +4,9 @@
 **Welcome to whoever is reading this**, I am **mags0ft** and love to write software, especially web applications and some experimental stuff, whenever I'm able to _allocate_ some time for that.
 
 
-I like to code in Python along with Flask, work with Next.JS and generally love to build tools way too complex for a simple task.
+I like to code in Python (Flask, 🤗 Transformers, 🦥 Unsloth), work with Next.JS and generally love to build a lot of tools way too complex for simple tasks.
 
-Feel free to look around a little bit. These [projects](./about-me/Projects.md) are worth a glance:
+Feel free to look around a little bit! These [projects](./about-me/Projects.md) are worth a glance:
 
 - 💻 a fully custom designed [16-bit CPU](https://github.com/mags0ft/JoltCore-16)
 - 🐍 my Python library [spamfilter](https://github.com/mags0ft/spamfilter), available at PyPI
