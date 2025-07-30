@@ -1,7 +1,7 @@
 # Open source software contributions
 
-I've already done a few minor contributions to projects that mean a lot to me.
-Here is a small list of my open source software pull requests which have been merged.
+I've done a few minor contributions to projects that mean a lot to me.
+Here is a (probably non-exhaustive) list of my open source software pull requests which have been merged.
 
 - ⛅ [`breezy-weather/breezy-weather`](https://github.com/breezy-weather/breezy-weather)
     - [fix bug where trailing spaces would hide relevant results](https://github.com/breezy-weather/breezy-weather/pull/1210)
