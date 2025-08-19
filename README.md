@@ -5,11 +5,15 @@
 
 I like to code in Python (Flask, 🤗 Transformers, 🦥 Unsloth), work with Next.JS and generally love to build a lot of tools way too complex for simple tasks.
 
+---
+
 Feel free to look around a little bit! These [projects](./about-me/Projects.md) are worth a glance:
 
 - 💻 a fully custom designed [16-bit CPU](https://github.com/mags0ft/JoltCore-16)
 - 🐍 my Python library [spamfilter](https://github.com/mags0ft/spamfilter), available at PyPI
 - ✨ [Jace](https://github.com/mags0ft/Jace), a tool to mix several LLMs (AI models) together
 - ... 👉 [many more!](./about-me/Projects.md)
+
+---
 
 Also see [**my skills**](./about-me/Skills.md), [**FOSS contributions**](./about-me/Contributions.md) and [**personal projects**](./about-me/Projects.md).
