@@ -59,3 +59,5 @@ They're grouped into small categories for a better overview!
 <p align="center">
   <img src="../images/Lorean.png" alt="GitHub page of the Lorean backup software project" width="400">
 </p>
+
+- [getwrite-builder](https://getwrite.human.uni-potsdam.de/), a contracted work in cooperation with my local university and a professor of theirs. Designed a fully-fledged online drag-and-drop coding platform with DSL and account management for linguistic and handwriting analysis.
