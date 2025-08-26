@@ -55,7 +55,7 @@ They're grouped into small categories for a better overview!
   <img src="../images/spamfilter.png" alt="Project badge for the spamfilter python library" width="200">
 </p>
 
-- [Lorean](https://github.com/mags0ft/Lorean) - Quick-to-use and organized app to manage, create and restore your backups. (_Old code - terrible! Written when I was 15 years old._)
+- [Lorean](https://github.com/mags0ft/Lorean) - Quick-to-use and organized app to manage, create and restore your backups. (_Old code - terrible! Written when I was 15 years old. Work to improve code quality has begun recently._)
 <p align="center">
   <img src="../images/Lorean.png" alt="GitHub page of the Lorean backup software project" width="400">
 </p>
