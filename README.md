@@ -16,4 +16,4 @@ Feel free to look around a little bit! These [projects](./about-me/Projects.md) 
 
 ---
 
-Also see [**my skills**](./about-me/Skills.md), [**FOSS contributions**](./about-me/Contributions.md) and [**personal projects**](./about-me/Projects.md).
+Also see [**my skills (non existant)**](./about-me/Skills.md), [**FOSS contributions**](./about-me/Contributions.md) and [**personal projects**](./about-me/Projects.md).
