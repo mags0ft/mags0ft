@@ -15,12 +15,9 @@ They're grouped into small categories for a better overview!
   <img src="../images/jace.png" alt="Main menu of Jace" width="400">
 </p>
 
-- [Jaden](https://ollama.com/jace-ai/jaden) - Strong, student-tailored fine-tune based on Google Gemma technology to help you with studying.
-<p align="center">
-  <img src="../images/jaden.png" alt="Promotional image of Jaden" width="400">
-</p>
+- [Jacob](https://huggingface.co/jacob-ml/jacob-24b) - A project to bring strong linguistic capabilities to produce text resembling German "Leichte Sprache" (Easy Language) into LLMs like Mistral Small 3.2 24b, made in cooperation with federal associations for people with special needs.
 
-- [hle-eval-ollama](https://github.com/mags0ft/hle-eval-ollama) - An easy-to-use evaluation tool for running Humanity's Last Exam on (locally) hosted Ollama instances.
+- [hle-eval-ollama](https://github.com/mags0ft/hle-eval-ollama) - An easy-to-use evaluation tool for running Humanity's Last Exam on (locally) hosted Ollama instances. Featured in Ollama's `README.md`!
 <p align="center">
   <img src="../images/hle-eval-ollama.png" alt="Icon for Humanity's Last Exam" width="100">
 </p>
