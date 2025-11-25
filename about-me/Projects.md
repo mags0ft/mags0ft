@@ -27,7 +27,7 @@ They're grouped into small categories for a better overview!
   <img src="../images/Jeffser-Alpaca.svg" alt="Icon for @Jeffser's Alpaca project, where I participate in" width="100">
 </p>
 
-- [NexaStrat](https://lichess.org/@/NexaStrat) - An average-playing chess AI to face intermediate players for training, fully written in Python using the `python-chess` library, scoring ~1520 Elo points.
+- [NexaStrat](https://lichess.org/@/NexaStrat) - An average-playing chess AI to face intermediate players for training, originally fully written in Python using the `python-chess` library (scored ~1520 Elo points), now replaced by a custom Transformer trained from scratch for several days on millions of chess games.
 <p align="center">
   <img src="../images/NexaStrat.png" alt="Logo of the NexaStrat chess engine" width="200">
 </p>
