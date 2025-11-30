@@ -33,6 +33,8 @@ Here is a (probably non-exhaustive) list of my open source software pull request
     - [add German translation strings](https://github.com/Jeffser/Pigment/pull/6)
     - [smaller general-purpose QoC improvements](https://github.com/Jeffser/Pigment/pull/7)
     - [minor README improvements](https://github.com/Jeffser/Pigment/pull/10)
+- 🟢 [`waydroid/waydroid`](https://github.com/waydroid/waydroid)
+    - [fix: replace '"' that may cause SyntaxErrors for some Python versions](https://github.com/waydroid/waydroid/pull/2121)
 
 ---
 
