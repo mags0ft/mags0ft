@@ -4,7 +4,7 @@ I've worked on many different projects over the time, and some are really fun to
 
 > [!IMPORTANT]
 >
-> This page is a small collection of my favorite projects. These are mostly recent ones from 2024 and 2025, but I have many more projects that I worked on in the past. Some of them - not all though - tend to have awful coding quality and are not useful enough to be "re-mastered", so to say!
+> This page is a small collection of my favorite projects. These are mostly recent ones from 2024 and 2025, but I have many more projects that I worked on in the past. Some of them - not all though - tend to have awful coding quality and are not useful enough to be "re-mastered", so to say! Those are not listed here.
 
 They're grouped into small categories for a better overview!
 
@@ -39,7 +39,7 @@ They're grouped into small categories for a better overview!
   <img src="../images/JoltCore-16.png" alt="Render of the JoltCore-16 CPU" width="400">
 </p>
 
-## Competitions
+## Competition participations
 
 - [BwInf-2025-Solutions](https://github.com/mags0ft/BwInf-2025-Solutions) - Participation in the "Bundeswettbewerb Informatik" (Federal Competition in Computer Science).
 - [Informatikbiber](https://bwinf.de/biber/) - Participation in the "Informatik-Biber" (Computer Science Beaver) competition.
@@ -47,9 +47,9 @@ They're grouped into small categories for a better overview!
 
 ## Data & processing
 
-- [spamfilter](https://github.com/mags0ft/spamfilter) - Streamlined, object-oriented and fully customizable python spam filter library. [Available on PyPI](https://pypi.org/project/spamfilter/) as `spamfilter`.
+- [spamfilter](https://github.com/mags0ft/spamfilter) - Streamlined, object-oriented and fully customizable Python spam filtering library. [Available on PyPI](https://pypi.org/project/spamfilter/) as `spamfilter`.
 <p align="center">
-  <img src="../images/spamfilter.png" alt="Project badge for the spamfilter python library" width="200">
+  <img src="../images/spamfilter.png" alt="Project badge for the spamfilter Python library" width="200">
 </p>
 
 - [Lorean](https://github.com/mags0ft/Lorean) - Quick-to-use and organized app to manage, create and restore your backups. (_Old code - terrible! Written when I was 15 years old. Work to improve code quality has begun recently._)
